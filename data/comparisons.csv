@@ -1,0 +1,4 @@
+﻿label,rr,hr,or,cohens,rd,orig.,prev_outc,prev_exp,field,design,ref
+"Lung cancer from smoking",1.2,1.7,1.3,0.14,4,"or",10,50,"Public health","RCT","Smoking is bad for you, Johnson, John (2019), Inoccuous press"
+"Looking cool from smoking",0.2,0.1,0.7,8,3,"hr",1,50,"Public health","Obs","Smoking is uncool, Johnson, John (2018), Hamlet General Interest Journal"
+"Getting pregnant from licking doorknobs",1,2,3,2,1,"rr",0,98,"Religion","Case","You'd think it goes without saying, Johnson, John (2011), Nature"
